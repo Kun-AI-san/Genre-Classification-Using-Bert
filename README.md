@@ -54,7 +54,7 @@ The trained Keras model is saved to the file system (`Bert_transformer_model1`) 
 To run the training and inference:
 
 ```bash
-python genre_classifier.py
+python BERTModel.py
 ```
 
 Ensure that the following files are in the same directory:
